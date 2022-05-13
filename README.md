@@ -5,9 +5,9 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Alessio Bettens
+- Klasgroep A
+- Romantique mafia
 
 
 ## Storyline 
@@ -24,7 +24,7 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 8. (Treasure) Tijdens de begrafenis stemde de familie van de jongen toe om het meisje te verkrachten.
 9. (Result) Het meisje wordt verkracht. Na de verkrachting, roept ze voor hulp. De ambulance komt er aan.
 10. (Return) 20 jaar later komt de zoon terug om wraak te nemen.
-11. (New life) Hij doodt de verkrachters en neemt wraak vvor zijn ouders.
+11. (New life) Hij doodt de verkrachters en neemt wraak voor zijn ouders.
 12. (Resolution)
 13. (new status quo)
 
@@ -32,10 +32,13 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 
 Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
 
+Ik heb eerst een hart gammaakt met een pijl die er door komt, omdat ze verliefd zijn en dat is het teken van liefde. Dat was het statische en heb het gemaakt met het 3d printen. Het dynamische was voor het "love secret". Omdat ze hun relatie geheim moesten houden. Voor dit wou ik een sleutel maken in hout met het lazercut, maar die kwam vast te zitten in de laatste les. Mijn idee was dat de sleutel met lazercut zou maken en de onderkant van de sleutel was een omgekeerde hart en daarop dat lichtjes zouden klipperen.
+
 ## Interaction
 
 Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
 
+In mijn deel was er geen interactie nodig. Je moest er gewoon naar kijken. Het klippert van zichzelf!
 
 
 
