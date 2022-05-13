@@ -15,9 +15,9 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. Zet een "!" naast het deel dat jij hebt gedaan en "!!" naast het element dat je dynamisch maakte
 
 1. (status quo) Twee maffia families die elkaar niet graag hebben.
-2. (Call to adventure) Het meisje van de ene familie ontmoet de jonge van de andere familie in de bakker en worden verliefd op elkaar. !
+2. (Call to adventure) Het meisje van de ene familie ontmoet de jonge van de andere familie in de bakker en "worden verliefd op elkaar". ->deel tussen"" !
 3. (Guidance) De vader van de jongen waarschuwt dat deze relatie niet mag bestaan.
-4. (Crossing) Ze blijven toch verder zien en houden hun relatie in het geheim. Er komt een kind uit hun relatie die ze geheim houden en wegsturen om te beschermen. !!
+4. (Crossing) "Ze blijven toch verder zien en houden hun relatie in het geheim". Er komt een kind uit hun relatie die ze geheim houden en wegsturen om te beschermen. ->deel tussen"" !!
 5. (Trials) De familie van het meisje komt te weten dat ze nog een relatie hebben.
 6. (Approach) Ze voeren de maffia oorlog.
 7. (Crisis) Tijdens de schietpartijen raakt de jongen gewond en zal later in het ziekenhuis overlijden.
